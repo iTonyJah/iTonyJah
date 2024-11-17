@@ -1,2 +1,2 @@
-# helllo project
+# hello project
 ### First repository
